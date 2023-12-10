@@ -1,0 +1,5 @@
+require("agustin.remap")
+require("agustin.set")
+require("agustin.packer")
+--require("theme.lua")
+require('Comment').setup()
